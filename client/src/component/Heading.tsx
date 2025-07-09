@@ -3,7 +3,7 @@ import NavigateButtons from "./NaviagteButton";
 
 const Heading = () => {
   return (
-    <div className="flex-1 px-2 py-5 flex items-center justify-center background-color gap-4">
+    <div className="h-full px-2 py-5 flex items-center justify-center background-color gap-4">
       <div className="flex flex-col gap-4">
         <h1 className="text-sm md:text-lg text-center text-white">
           <span className="text-xl md:text-3xl font-bold">
