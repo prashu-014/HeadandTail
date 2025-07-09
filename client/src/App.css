@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.background-color{
+    background-color: var(--color-orange-400);
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  margin: 4px;
+  background: #e0e0e0;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
